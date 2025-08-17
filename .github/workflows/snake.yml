@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # allow manual trigger
 
+permissions:
+  contents: write   # 👈 this gives actions permission to push to your repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
