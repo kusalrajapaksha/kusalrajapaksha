@@ -34,9 +34,28 @@
 ---
 
 ### 🚀 Featured Projects
-- 📱 [Your iOS App 1](https://github.com/kusalrajapaksha/your-ios-app1) – SwiftUI-based app with clean MVVM architecture  
-- 📱 [Your iOS App 2](https://github.com/kusalrajapaksha/your-ios-app2) – UIKit project showcasing animations & persistence  
-- 📱 [Your iOS App 3](https://github.com/kusalrajapaksha/your-ios-app3) – Experiment with Combine & async/await  
+#### ✈️ iCanFly – Flight Ticket Booking App
+A modern iOS app designed for seamless flight booking and management. 
+
+**AppStore:** [iCanFly](https://apps.apple.com/lk/app/icanfly-flight-hotel-train/id6738917029)
+
+**Company:** [iCan Lanka (Pvt) Ltd](https://icanlk.com/)  
+
+**Duration:** Apr 2024 – Present  
+
+**Key Features:**
+- 🔍 Search, filter, and compare flights in real-time  
+- 🔒 Secure booking with integrated payment gateways  
+- 💺 Interactive seat selection and trip management  
+- 🌍 Multi-language and multi-currency support for global users  
+- 🎨 Smooth UI built with **SwiftUI** + optimized animations for a premium experience  
+
+**Tech Stack:** Swift, UIKit, SwiftUI, Combine, Core Data, REST APIs  
+
+> 💡 This project demonstrates expertise in building scalable, user-focused travel solutions with intuitive design, robust backend integration, and smooth performance.
+
+---
+- 📱 [KRToolTipGuide]([https://github.com/kusalrajapaksha/your-ios-app1](https://github.com/kusalrajapaksha/KRToolTipGuide)) – A SwiftUI package for creating interactive tooltip guides and onboarding experiences in iOS apps.
 
 ---
 
