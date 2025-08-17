@@ -3,7 +3,7 @@
 🚀 **Native iOS Developer | Crafting Seamless Mobile Experiences**  
 
 - 🔭 Currently building elegant and high-performance iOS applications  
-- 🌱 Always exploring new Apple frameworks & Swift best practices  
+- 🌱 Exploring the latest Swift & Apple frameworks  
 - ✍️ Writing about iOS development on [Medium](https://medium.com/@kusalprabathrajapaksha)  
 - 💬 Ask me about: Swift, UIKit, SwiftUI, Core Data, and app architecture  
 - ⚡ Fun fact: I believe design and code go hand-in-hand for great user experiences  
@@ -20,14 +20,21 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kusalrajapaksha&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusalrajapaksha&layout=compact&theme=tokyonight)
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kusalrajapaksha&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusalrajapaksha&layout=compact&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kusalrajapaksha&theme=tokyonight)  
+
+---
+
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusalrajapaksha&theme=tokyo-night)
 
 ---
 
 ### 🚀 Featured Projects
-- 📱 [Your iOS App 1](https://github.com/kusalrajapaksha/your-ios-app1) – Elegant SwiftUI-based app with clean architecture  
+- 📱 [Your iOS App 1](https://github.com/kusalrajapaksha/your-ios-app1) – SwiftUI-based app with clean MVVM architecture  
 - 📱 [Your iOS App 2](https://github.com/kusalrajapaksha/your-ios-app2) – UIKit project showcasing animations & persistence  
 - 📱 [Your iOS App 3](https://github.com/kusalrajapaksha/your-ios-app3) – Experiment with Combine & async/await  
 
@@ -38,4 +45,11 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kusalprabathrajapaksha)  
 
 ---
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/kusalrajapaksha/kusalrajapaksha/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ✨ _“Crafting Seamless Mobile Experiences”_ ✨
+
